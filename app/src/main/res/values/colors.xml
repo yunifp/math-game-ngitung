@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="coklatamatmuda">#F8F4E1</color>
+    <color name="lumut">#597E52</color>
+    <color name="kuning">#FEB941</color>
+    <color name="coklatmuda">#AF8F6F</color>
+    <color name="background">#543310</color>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NGITUNG</string>
+    <string name="numbers_ncalculation_game">NGITUNG MAYUH</string>
+    <string name="kopireg">by yunifputra</string>
+    <string name="_0">0</string>
+    <string name="score">Skor</string>
+    <string name="question">Pitakonan</string>
+    <string name="start_game">MULAI</string>
+    <string name="write_here">Nulis kene</string>
+    <string name="your_score">skor sampeyan</string>
+    <string name="close">Uwisan</string>
+    <string name="try_again">Njajal maneh</string>
+</resources>
